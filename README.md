@@ -2,9 +2,9 @@
 
 This repository contains some of the courseworks I completed as part of my MSc in Computational Statistics and Machine Learning at UCL.
 
-* Statistical Natural Language Processing (taught by Facebook AI Research)
+* Statistical Natural Language Processing
 * Supervised Learning
-* Reinforcement Learning (taught by Google DeepMind)
+* Reinforcement Learning
 * Deep Learning
 * Graphical Models
 * Machine Learning Seminar (research topics)
