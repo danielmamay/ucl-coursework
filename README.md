@@ -7,6 +7,6 @@ This repository contains some of the courseworks I completed as part of my MSc i
 * Reinforcement Learning
 * Deep Learning
 * Graphical Models
-* Machine Learning Seminar (research topics)
+* Machine Learning Seminar
 * Statistical Models and Data Analysis
 * Applied Bayesian Methods
